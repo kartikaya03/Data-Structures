@@ -1,6 +1,4 @@
-package Arrays.easy;
-
-import java.util.Arrays;
+package arrays.easy;
 
 public class WealthAndAccounts {
     public static void main(String[] args) {
