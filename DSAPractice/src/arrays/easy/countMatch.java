@@ -16,10 +16,6 @@ public class countMatch {
 
     }
 
-
-
-
-
           static int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
                 int index = switch (ruleKey) {
                     case "color" -> 1;
