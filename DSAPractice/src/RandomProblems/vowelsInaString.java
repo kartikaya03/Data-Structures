@@ -1,4 +1,4 @@
-package randomProblems;
+package RandomProblems;
 
 public class vowelsInaString {
     public static void main(String[] args) {
