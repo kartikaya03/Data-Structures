@@ -7,9 +7,9 @@ public class CommonElementInThreeSortedArray {
 
 
 
-       int [] firstArray = {1,2,3};
+       int [] firstArray = {1,2,9};
        int [] secondArray = {3,8,9};
-       int [] thirdArray = {1,3,6};
+       int [] thirdArray = {1,9,11};
               int number =0;
         for (int index = 0; index < firstArray.length ; index++) {
             for (int index1 = 0; index1 < secondArray.length; index1++) {
