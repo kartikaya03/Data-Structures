@@ -3,7 +3,7 @@ package arrays.searching;
 public class OrderAgnosticBS {
     public static void main(String[] args) {
         int[] arr = {90,75,60,22,17,11,5,1};
-        int target = 90;
+        int target = 80;
         int ans = OrderAgnosticBinarySearch(arr,target);
         System.out.println(ans);
     }
