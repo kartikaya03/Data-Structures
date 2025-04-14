@@ -8,8 +8,9 @@ public class SingleElement {
     }
 
     static int singleNonDuplicate(int[] nums) {
-        int start = 0, end = nums.length - 1;
-        while (start < end) {
+        int start = 0;
+        int end = nums.length - 1;
+        while (start <= end) {
          int  mid = start + (end - start) / 2;
             if (mid % 2 == 0) {
                 if (nums[mid] == nums[mid + 1]) {
