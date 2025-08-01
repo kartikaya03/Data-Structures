@@ -1,4 +1,4 @@
-package RandomProblems.arrays;
+package RandomProblems;
 
 public class largestNumber {
     public static void main(String[] args) {

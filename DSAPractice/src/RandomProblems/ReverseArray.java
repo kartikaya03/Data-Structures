@@ -1,4 +1,4 @@
-package RandomProblems.arrays;
+package RandomProblems;
 
 public class ReverseArray {
     public static void main(String[] args) {

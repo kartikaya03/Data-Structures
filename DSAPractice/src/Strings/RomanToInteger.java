@@ -12,11 +12,11 @@ public class RomanToInteger {
       map.put('L',50);
       map.put('C',100);
       map.put('D',500);
-      map.put('M',1000);
+        map.put('M', 1000);
 
         String s = "MCMXCIV";// 1994
-         int total=0;
-         //print sum of all characters in string
+        int total = 0;
+        //print sum of all characters in string
         for (int i = 0; i < s.length(); i++) {
             int currValue = map.get(s.charAt(i));
 
@@ -30,8 +30,6 @@ public class RomanToInteger {
 
         System.out.println(total);
     }
-
-
-        }
+}
 
 

@@ -1,4 +1,4 @@
-package RandomProblems.arrays;
+package RandomProblems;
 
 import java.util.Arrays;
 import java.util.List;

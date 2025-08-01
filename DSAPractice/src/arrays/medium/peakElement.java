@@ -2,7 +2,7 @@ package arrays.medium;
 
 public class peakElement {
     public static void main(String[] args) {
-         int []  arr = {80,20,15,2,23,10};
+         int []  arr = {0,1,2,4,3,1,0};
           int result  =  peakEl(arr);
         System.out.println(result);
     }
